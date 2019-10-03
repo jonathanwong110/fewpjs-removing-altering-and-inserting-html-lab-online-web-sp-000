@@ -1,3 +1,3 @@
  // Write your code here!
  
- element.classList.remove("main");
+ ul.classList.remove("main");
