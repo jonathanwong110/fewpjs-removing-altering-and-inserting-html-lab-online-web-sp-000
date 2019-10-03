@@ -1,6 +1,6 @@
  // Write your code here!
  
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <title>Creating and Inserting DOM Elements</title>
