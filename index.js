@@ -2,4 +2,4 @@
  
 document.body.remove("main#main")
 let newHeader = document.querySelector("h1#victory")
-newHeader = "H1"
+newHeader.innerhtml = "H1"
