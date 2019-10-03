@@ -1,5 +1,5 @@
  // Write your code here!
  
 document.body.remove("main#main")
-let id = document.querySelector("id#victory")
-id = "H1"
+let newHeader = document.querySelector("h1#id")
+newHeader = "H1"
