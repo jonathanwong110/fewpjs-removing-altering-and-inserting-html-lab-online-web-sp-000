@@ -1,4 +1,5 @@
  // Write your code here!
  
 document.body.remove("main#main")
-document.head.appendChild("h1.victory")
+let newHeader = document.getElementbyId("div#header")
+newHeader.innerhtml = "<h1>victory</<h1>"
